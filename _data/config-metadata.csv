@@ -5,9 +5,12 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 school,School,
+course,Course
 source,Source
 identifier,Source Identifier,,
 type,Type,
+word count, Word count
+file size, File size
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
