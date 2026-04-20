@@ -6,9 +6,7 @@ subject,Subjects,true
 school,School,
 course,Course
 identifier,Source Identifier,,
-type,Type,
 word count,Word count
-file size,File size
+file Size,File size
 format,Format,
 rights,Rights,
-
