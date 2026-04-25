@@ -1,5 +1,7 @@
 field,display_name
 title,Title
+filename, File Name
+creator,Creator
 date,Date
 school,School
 course,Course
