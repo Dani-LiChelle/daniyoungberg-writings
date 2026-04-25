@@ -1,5 +1,10 @@
 field,display_name
 title,Title
 date,Date
-description,Description
+school,School
+course,Course
 subject,Subjects
+word count, Word Count
+file Size,File Size
+format, Format
+rights, Copyright
